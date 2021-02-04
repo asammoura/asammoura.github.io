@@ -1,6 +1,10 @@
-  h2 {
-    color: rgb(20, 200, 30)
+ #banner {
+     padding: 0 450px;
     }
-   body {
-     background-color: rgb( 90, 255, 70)
-}
+        #banner img {
+            display: block;
+            margin: 0 auto;
+        }
+        #buttons {
+            padding: 0 612.5px;
+        }
